@@ -9,6 +9,7 @@ packages = [{include = "docca_search"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 django = "^4.1.7"
+python-decouple = "^3.8"
 
 
 [build-system]
